@@ -75,7 +75,8 @@
           <p class="lead text-muted" style="color: white !important;">Aside from coding, I love to play music, and do any outdoor activities. 
           </p>
           <p>
-            <button type="button" class="btn btn-light">View GitHub</button>
+            <a href="https://github.com/dvasquezjr" class="btn btn-secondary" target="_blank">View GitHub</a>
+            <a href="https://github.com/dvasquezjr/portfolio.git" class="btn btn-info" target="_blank">View Code for Website</a>
           </p>
         </div>
       </div>
@@ -190,35 +191,23 @@
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title">Simple To-Do List</h5>
+        <p class="card-text">When I first started to learn the basics of JavaScript, I decided to create a simple to-do list. I did not add much styling, for I wanted to make sure I understood the functionality of the application.</p>
       </div>
       <div class="card-footer">
-        <button type="button" class="btn btn-secondary">View Application</button>
-        <button type="button" class="btn btn-info">View Code</button>
+        <a href="https://dvasquezjr.github.io/simple-list/" class="btn btn-secondary" target="_blank">View App</a>
+        <a href="https://github.com/dvasquezjr/simple-list.git" class="btn btn-info" target="_blank">View Code</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">Clover Purchase Application</h5>
+        <p class="card-text">I created this application to help a local church sell books. Due to COVID-19, they are not able to do transactions in person, so they asked if I can create a digital solution. I did not have a lot of time to create the app, so I used WordPress and WooCommerce.</p>
       </div>
       <div class="card-footer">
-        <button type="button" class="btn btn-secondary">View Application</button>
-        <button type="button" class="btn btn-info">View Code</button>      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      </div>
-      <div class="card-footer">
-        <button type="button" class="btn btn-secondary">View Application</button>
-        <button type="button" class="btn btn-info">View Code</button>      </div>
+        <a href="https://galenapark.dto46iece.com/" class="btn btn-secondary" target="_blank">View App</a>
     </div>
   </div>
 </div>
