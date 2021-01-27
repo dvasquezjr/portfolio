@@ -1,0 +1,31 @@
+body {
+  background-color: #f2f2f2 !important;
+  padding: 5vw;
+}
+
+section#hero {
+  margin-bottom: 5vw;
+  margin-top: 5vw;
+}
+div#sequence {
+  color: #000080;
+  font-size: 2em;
+  font-style: italic;
+  font-weight: 500;
+}
+
+section#about {
+  background-color: #000080;
+  color: white !important;
+  margin-bottom: 5vw;
+}
+
+.page-link {
+  color: #000080 !important;
+}
+
+@media (min-width: 768px) {
+  .row-cols-md-3>* {
+    padding: 1vw !important;
+  }
+}
